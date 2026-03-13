@@ -108,14 +108,12 @@ Here you'll find repositories related to:
 
 ---
 
+
 ## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-martinez-padilla-b70a79177/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/chavez46711" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-![Sergio Martínez GitHub Banner](./assets/banner-sergio-github.png)
+![Sergio Martínez GitHub Banner](./banner-sergio-github.png)
 
 # Hi there, I'm Sergio Martínez 👋
 

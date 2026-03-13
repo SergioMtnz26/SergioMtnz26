@@ -21,15 +21,17 @@
 
 ## About me
 
-I'm a **Java Backend Developer from Mexico** with experience building enterprise applications, microservices, and data integration solutions.
+I'm a **Java Backend Developer from Mexico** with experience building enterprise applications, microservices, APIs, and data integration solutions.
 
-My work has focused on:
+My professional focus has been centered on:
 - backend development with **Java 8+** and **Spring Boot**
 - implementation and integration of **REST** and **SOAP** services
 - enterprise system integration and database-driven solutions
-- **Oracle**, **MySQL**, and **SQL Server**
+- relational databases such as **Oracle**, **MySQL**, and **SQL Server**
 - layered architecture using **DTO**, **DAO**, **JPA**, **JDBC**, and **Spring Data**
 - agile environments with **Scrum**, API testing, and technical documentation
+
+I also have working knowledge of frontend and complementary web technologies such as **Angular**, **React**, **Node.js**, **JavaScript**, **TypeScript**, **HTML**, and **CSS**, mainly as support skills for end-to-end collaboration.
 
 I enjoy building solutions that are clean, maintainable, and aligned with real business processes.
 
@@ -62,6 +64,15 @@ I enjoy building solutions that are clean, maintainable, and aligned with real b
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
+### Complementary knowledge
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 ---
 
 ## Professional highlights
@@ -72,6 +83,7 @@ I enjoy building solutions that are clean, maintainable, and aligned with real b
 - Integrated data across **Oracle** and other relational databases
 - Used **DTO**, **DAO**, **JPA**, **JDBC**, and layered architecture patterns
 - Participated in agile teams using **Scrum** and collaborative delivery practices
+- Collaborated with complementary frontend technologies when required by the solution
 
 ---
 
@@ -95,19 +107,6 @@ Here you'll find repositories related to:
 - technical exercises and professional practice projects
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioMtnz26&show_icons=true" alt="Sergio GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMtnz26&layout=compact" alt="Top languages" />
-</p>
-
----
-
 
 ## Connect with me
 
